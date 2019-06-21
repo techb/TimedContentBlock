@@ -1,0 +1,16 @@
+.content-wrapper > h3 {
+    text-align: center;
+}
+
+.date-time-wrapper {
+    display: flex;
+    justify-content: space-between
+}
+
+.components-datetime__date{
+    display: none;
+}
+
+.components-datetime__date-help-button {
+    display: none !important;
+}
