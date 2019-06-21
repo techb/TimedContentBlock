@@ -35,7 +35,7 @@ add_action('enqueue_block_assets', 'loadBlockFilesFrontend');
 function timedContenRender($props) {
     // split and trim white space, works without doing it
     // just doing it to be safe
-    var_dump($props);
+    // var_dump($props);
 
     $html = "<h2>Testing</h2>";
 
